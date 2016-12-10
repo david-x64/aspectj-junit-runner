@@ -1,0 +1,9 @@
+<aspectj>
+    <aspects>
+        <aspect name="eu.haobao.junit.aspectj.example.UpperCaseAspect"/>
+    </aspects>
+    <weaver>
+        <include within="eu.haobao.junit.aspectj.example.HelloTest"/>
+        <include within="eu.haobao.junit.aspectj.example.UpperCaseAspect"/>
+    </weaver>
+</aspectj>
