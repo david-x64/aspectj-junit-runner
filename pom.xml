@@ -10,6 +10,19 @@
 	<packaging>jar</packaging>
 	<name>AspectJ JUnit Runner</name>
 	<description>AspectJ JUnit Runner</description>
+	<url>https://github.com/david-888/aspectj-junit-runner</url>
+
+	<licenses>
+		<license>
+			<name>GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007</name>
+			<url>https://www.gnu.org/licenses/gpl.html</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<scm>
+		<url>https://github.com/david-888/aspectj-junit-runner</url>
+	</scm>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
